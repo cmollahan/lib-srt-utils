@@ -1,6 +1,6 @@
 # Experiment Config Demystified
 
-An experiment config is a `.json` file consisting of the following fieldsTEST:
+An experiment config is a `.json` file consisting of the following fields:
 
 - `collect_results_path`:  The directory path where the results produced by the experiment should be copied,
 - `ignore_stop_order`: True/False depending on whether the stop order specified in tasks' configs should be/should not be ignored when stopping the experiment,
